@@ -1,0 +1,15 @@
+{"name":"unProgressive Web App","start_url":"/home","display":"browser",
+"icons":[{
+"src":"/favicon.ico",
+"sizes":"32x32 48x48 16x16",
+"type":"image/ico"
+},{
+"src":"/favicon.png",
+"sizes":"144x144",
+"type":"image/svg"
+},{
+"src":"/favicon.svg",
+"sizes":"144x144",
+"type":"image/svg"
+}
+]}

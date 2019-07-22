@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144">
+<rect width="144" height="144" fill="#777"/>
+<g fill="#FF0">
+<rect x="" y="" width="72" height="72"/>
+<rect x="72" y="72" width="72" height="72"/>
+</g>
+<g fill="#000" font-family="monospace" font-size="70">
+<text x="20" y="60">L</text>
+<text x="80" y="60">H</text>
+<text x="20" y="125">D</text>
+<text x="80" y="125">S</text>
+<text font-size="" x="51" y="87">!</text>
+</g>
+</svg>

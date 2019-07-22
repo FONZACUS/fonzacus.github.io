@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<rect width="120" height="120" fill="#777"/>
+<g fill="#FF0">
+<rect x="" y="" width="60" height="60"/>
+<rect x="60" y="60" width="60" height="60"/>
+</g>
+<g fill="#000" font-family="monospace">
+<text x="13" y="34">LIVE</text>
+<text x="75" y="34">HARD</text>
+<text x="17" y="93">DIE</text>
+<text x="63" y="93">STRONG</text>
+<text font-size="60" x="42" y="73">!</text>
+</g>
+</svg>
