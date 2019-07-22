@@ -1,0 +1,4 @@
+if('serviceWorker' in navigator){navigator.serviceWorker.register('/wb.js')};
+$.cookie('css')&&$('link').attr('href',$.cookie('css'));$(function(a){a.ac=function(){'y'!=a.cookie('cc')&&(a('<p id="ic" style="position:fixed;top:0;left:0;z-index:99;color:#FFF;background:#000">Cookie?<input type="button" value="yep" id="yc">').appendTo('body'),a('#yc').click(function(){a.cookie('cc','y',{expires:99,path:'/'});a('#ic').hide()}));return null}});
+$(function(){$.ac();$('[inc]').each(function(){$(this).load($(this).attr('inc'))});$('.fadeto').fadeTo(999,1);$('a').click(function(){$('link').attr('href',$(this).attr('rel'));$.cookie('css',$(this).attr('rel'),{expires:99,path:'/'});return!1})});
+document.write('<div style="position:fixed;z-index:9;top:0;left:0;color:#FFF;background:#000"><a href="#" rel="/a/c/bootstrap.min.css">&loz;Lite</a><br><a href="#" rel="/a/c/d/bootstrap.min.css">&diams;Dark</a></div>');
